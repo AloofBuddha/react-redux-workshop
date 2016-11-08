@@ -1,0 +1,23 @@
+{
+  "name": "make-your-own-redux",
+  "version": "1.0.0",
+  "description": "let's make our own redux!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaizerroll/react-redux-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaizerroll/react-redux-workshop/issues"
+  },
+  "homepage": "https://github.com/kaizerroll/react-redux-workshop#readme",
+  "dependencies": {
+    "expect": "^1.20.2"
+  }
+}
